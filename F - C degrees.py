@@ -13,3 +13,5 @@ if(70.0 < temp_F < 78.0):
     print("It's nice weather today")
 else:
     print("The weather isn't so nice today")
+
+print("I think I got it")
